@@ -1,0 +1,8 @@
+This is text for my file testing here.
+ls -l
+touch
+cd
+mkdir
+pwd
+
+
