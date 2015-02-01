@@ -1,0 +1,8 @@
+We've created our first file!
+
+ls -l
+touch
+pwd
+clear
+cd
+This is an edit to the file.
